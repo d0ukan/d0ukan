@@ -5,8 +5,7 @@
 **Electrical & Electronics Engineer · Military & Aerospace**
 
 [![Website](https://img.shields.io/badge/Website-cv.dogukan.space-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cv.dogukan.space/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dogukan--demirhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukan-demirhan/)
-[![Email](https://img.shields.io/badge/Email-dogukandemirhan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogukandemirhan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dodemirhan98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodemirhan98@gmail.com)
 
 ![DO-254](https://img.shields.io/badge/DO--254-avionics-00bcd4?style=flat-square)
 ![DO-160](https://img.shields.io/badge/DO--160-environmental-00bcd4?style=flat-square)
