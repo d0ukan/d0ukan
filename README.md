@@ -1,32 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-# Dogukan Demirhan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:002228&height=170&section=header&text=Dogukan%20Demirhan&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Avionics%20%26%20Embedded%20Hardware%20Design&descSize=18&descAlignY=60" alt="Dogukan Demirhan - Avionics and Embedded Hardware Design" width="100%">
 
-Electrical & Electronics Engineer, working on avionics hardware for military and aerospace programs. I design mixed-signal and power electronics, mostly in the DO-254 / DO-160 / MIL-STD world, and I like building things across hardware, firmware and mechanics.
+<img src="https://cv.dogukan.space/resim.jpg" alt="Dogukan Demirhan" width="120" height="120" style="border-radius:50%">
 
-[cv.dogukan.space](https://cv.dogukan.space/) · [LinkedIn](https://www.linkedin.com/in/dogukan-demirhan/) · [dogukandemirhan@gmail.com](mailto:dogukandemirhan@gmail.com)
+**Electrical & Electronics Engineer · Military & Aerospace**
 
-*Türkçe: Askerî ve havacılık alanında donanım tasarımı yapan bir Elektrik-Elektronik Mühendisiyim. Ayrıntılar için siteme bakabilirsiniz.*
+[![Website](https://img.shields.io/badge/Website-cv.dogukan.space-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cv.dogukan.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dogukan--demirhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukan-demirhan/)
+[![Email](https://img.shields.io/badge/Email-dogukandemirhan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogukandemirhan@gmail.com)
 
-## What I work on
+![DO-254](https://img.shields.io/badge/DO--254-avionics-00bcd4?style=flat-square)
+![DO-160](https://img.shields.io/badge/DO--160-environmental-00bcd4?style=flat-square)
+![MIL-STD](https://img.shields.io/badge/MIL--STD-461%20%7C%20704%20%7C%20810-00bcd4?style=flat-square)
+![ARINC 429](https://img.shields.io/badge/ARINC-429-00bcd4?style=flat-square)
+![Altium](https://img.shields.io/badge/Altium-Designer-00bcd4?style=flat-square)
 
-- Avionics hardware design under DO-254, with DO-160 and MIL-STD (461 / 704 / 810) in mind
-- Mixed-signal boards, isolated interfaces, ARINC 429, CAN, RS-485, Ethernet
-- Power electronics and motor drivers (BLDC / FOC ESC, stepper and DC drivers)
-- Embedded firmware (C / C++ on STM32, FreeRTOS) and test tooling (Python, C#)
-- Earlier: electronics and system design for ROV platforms rated from 150 to 4,500 m
+</div>
 
-## Tools
+---
 
-Altium Designer, LTspice, STM32 tooling, SolidWorks, Fusion, MATLAB, Git/SVN, IBM DOORS, Jira
+I design mixed-signal and power electronics for avionics, mostly in the DO-254 / DO-160 / MIL-STD world, and I like building things across hardware, firmware and mechanics.
 
-## Side projects
+*Türkçe: Askerî ve havacılık alanında donanım tasarımı yapan bir Elektrik-Elektronik Mühendisiyim. Ayrıntılar için [siteme](https://cv.dogukan.space/#tr) bakabilirsiniz.*
 
-FPV drone, 4.5 kW electric go-kart, laser-based sound transmission, image-processing shopping cart, SDR scanner. Most of the hardware is not open source, so this profile is mostly small tools and experiments.
+## 🔧 What I work on
 
-## Get in touch
+| | |
+|---|---|
+| ✈️ **Avionics hardware** | Safety-critical boards under DO-254, with DO-160 and MIL-STD (461 / 704 / 810) in mind |
+| 🔌 **Mixed-signal & isolation** | Fully isolated interfaces, sensor conditioning, fault monitoring, discrete I/O |
+| 📡 **Communication** | ARINC 429, CAN, RS-485, Ethernet, RS-232 |
+| ⚡ **Power & motor drives** | BLDC / FOC ESC, stepper and DC drivers, DC power supplies |
+| 💻 **Embedded & test tooling** | C / C++ on STM32 with FreeRTOS, Python and C# for test and data acquisition |
+| 🌊 **Earlier** | Electronics and system design for ROV platforms rated from 150 to 4,500 m |
 
-The fastest way is LinkedIn or email. My CV is available in English and Turkish, in a standard and an ATS-friendly version: [cv.dogukan.space](https://cv.dogukan.space/).
+## 🧰 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,java,dotnet,opencv,git,matlab" alt="Languages and tools">
+
+</div>
+
+Altium Designer · LTspice · STM32 tooling · SolidWorks · Fusion · IBM DOORS · Jira
+
+<details>
+<summary><b>🏁 Side projects</b></summary>
+
+<br>
+
+- FPV drone
+- 4.5 kW electric go-kart
+- Laser-based sound transmission
+- Image-processing shopping cart
+- VHF / UHF SDR scanner
+
+Most of my hardware work is not open source, so this profile is mostly small tools and experiments.
+
+</details>
+
+<details>
+<summary><b>📄 CV downloads</b></summary>
+
+<br>
+
+English and Turkish, standard and ATS-friendly versions are available at [cv.dogukan.space](https://cv.dogukan.space/).
+
+</details>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002228,100:00bcd4&height=90&section=footer" alt="" width="100%">
+
+</div>
 
 
 <!--
