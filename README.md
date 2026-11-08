@@ -66,3 +66,4 @@ Most of my hardware work is not open source, so this profile is mostly small too
 English and Turkish, standard and ATS-friendly versions are available at [cv.dogukan.space](https://cv.dogukan.space/).
 
 </details>
+
