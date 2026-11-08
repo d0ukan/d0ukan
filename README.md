@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:002228&height=170&section=header&text=Dogukan%20Demirhan&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Avionics%20%26%20Embedded%20Hardware%20Design&descSize=18&descAlignY=60" alt="Dogukan Demirhan - Avionics and Embedded Hardware Design" width="100%">
 
-<img src="https://cv.dogukan.space/resim.jpg" alt="Dogukan Demirhan" width="120" height="120" style="border-radius:50%">
-
 **Electrical & Electronics Engineer · Military & Aerospace**
 
 [![Website](https://img.shields.io/badge/Website-cv.dogukan.space-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cv.dogukan.space/)
@@ -76,6 +74,7 @@ English and Turkish, standard and ATS-friendly versions are available at [cv.dog
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002228,100:00bcd4&height=90&section=footer" alt="" width="100%">
 
 </div>
+
 
 
 <!--
