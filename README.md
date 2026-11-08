@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:002228&height=170&section=header&text=Dogukan%20Demirhan&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Avionics%20%26%20Embedded%20Hardware%20Design&descSize=18&descAlignY=60" alt="Dogukan Demirhan - Avionics and Embedded Hardware Design" width="100%">
+<img src="./banner.svg" alt="Dogukan Demirhan - Avionics and Embedded Hardware Design" width="100%">
 
 **Electrical & Electronics Engineer · Military & Aerospace**
 
@@ -24,7 +24,7 @@ I design mixed-signal and power electronics for avionics, mostly in the DO-254 /
 
 ## 🔧 What I work on
 
-| | |
+| Area | What I do |
 |---|---|
 | ✈️ **Avionics hardware** | Safety-critical boards under DO-254, with DO-160 and MIL-STD (461 / 704 / 810) in mind |
 | 🔌 **Mixed-signal & isolation** | Fully isolated interfaces, sensor conditioning, fault monitoring, discrete I/O |
@@ -66,28 +66,3 @@ Most of my hardware work is not open source, so this profile is mostly small too
 English and Turkish, standard and ATS-friendly versions are available at [cv.dogukan.space](https://cv.dogukan.space/).
 
 </details>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002228,100:00bcd4&height=90&section=footer" alt="" width="100%">
-
-</div>
-
-
-
-<!--
-**d0ukan/d0ukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
