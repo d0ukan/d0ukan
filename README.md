@@ -26,7 +26,7 @@ I design mixed-signal and power electronics for avionics, mostly in the DO-254 /
 | Area | What I do |
 |---|---|
 | ✈️ **Avionics hardware** | Safety-critical boards under DO-254, with DO-160 and MIL-STD (461 / 704 / 810) in mind |
-| 🔌 **Mixed-signal & isolation** | Fully isolated interfaces, sensor conditioning, fault monitoring, discrete I/O |
+| 🔌 **Mixed-signal & isolation** | Fully isolated interfaces, sensor conditioning (including UV/IR flame detection), fault monitoring, discrete I/O |
 | 📡 **Communication** | ARINC 429, CAN, RS-485, Ethernet, RS-232 |
 | ⚡ **Power & motor drives** | BLDC / FOC ESC, stepper and DC drivers, DC power supplies |
 | 💻 **Embedded & test tooling** | C / C++ on STM32 with FreeRTOS, Python and C# for test and data acquisition |
