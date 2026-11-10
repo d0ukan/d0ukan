@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Dogukan Demirhan - Avionics and Embedded Hardware Design" width="100%">
+<img src="./banner.svg" alt="Dogukan - Avionics and Embedded Hardware Design" width="100%">
 
 **Electrical & Electronics Engineer · Military & Aerospace**
 
