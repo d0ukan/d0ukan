@@ -1,7 +1,7 @@
-![Dogukan Demirhan (TA2DOU)](./banner.svg)
+![Dogukan Demirhan (TA2DOU)]
 
-
-an Avionics hardware design engineer. mixed-signal SI/PI power electronics for avionics.
+TA2DOU - RF Maniac
+an Avionics hardware design engineer for military&Defense industry. mixed-signal SI/PI power electronics for avionics.
 RF maniac
 On the side, I'm just a regular nutcase.
 
